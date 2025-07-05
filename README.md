@@ -1,2 +1,1 @@
-# Ai-Code-Explainer
-Offline AI-Powered Python Code Explainer using HuggingFace GPT-Neo
+An offline AI-powered tool that explains Python code in simple, beginner-friendly English using a locally hosted GPT-Neo model. Built with Streamlit, it runs entirely on your device—no internet or external APIs required. Perfect for learners seeking a private, portable coding assistant.
