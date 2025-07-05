@@ -1,8 +1,6 @@
-This project is a fully offline, AI-powered tool designed to simplify Python programming education and enhance code comprehension for beginners. Leveraging HuggingFace’s GPT-Neo 125M model, it interprets Python scripts and generates clear, beginner-friendly explanations—entirely without needing an internet connection.
-
-Built with Streamlit for an interactive frontend and PyTorch for efficient local model execution, the application offers a clean, intuitive interface that runs smoothly on standard CPU hardware. It’s a privacy-focused solution, making it ideal for classrooms, coding bootcamps, or self-learners seeking real-time, line-by-line code explanations.
-
-The tool supports a wide range of Python constructs—including loops, functions, and conditionals—and can handle both simple and moderately complex code logic. With zero reliance on external APIs, users enjoy full portability, faster performance, and complete control over their data.
-
+This project is a fully offline, AI-powered tool designed to simplify Python programming education and enhance code comprehension for beginners. Leveraging HuggingFace’s GPT-Neo 125M model, it interprets Python scripts and generates clear,
+beginner-friendly explanations—entirely without needing an internet connection. Built with Streamlit for an interactive frontend and PyTorch for efficient local model execution, the application offers a clean, intuitive interface that runs
+smoothly on standard CPU hardware. It’s a privacy-focused solution, making it ideal for classrooms, coding bootcamps, or self-learners seeking real-time, line-by-line code explanations.The tool supports a wide range of Python constructs—
+including loops, functions, and conditionals—and can handle both simple and moderately complex code logic. With zero reliance on external APIs, users enjoy full portability, faster performance, and complete control over their data.
 Whether you're a student debugging assignments or an instructor teaching offline, this lightweight educational assistant brings the power of open-source language models directly to your device.
 
